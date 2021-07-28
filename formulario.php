@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Document</title>
-    <link rel="style2sheet" href="style2.css">
 </head>
 <body>
     <form action="#">
@@ -18,7 +17,7 @@
             <input id="receberemails"
             type="checkbox"name="receberemails"><br>
         </div>
-        <div>
+        <div> 
            
             <label> Sexo:</label><br>
             <input id ="sexomasculino" type="radio"name="sexo" value="masculino">

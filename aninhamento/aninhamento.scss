@@ -1,0 +1,16 @@
+.fundo{
+    background: #000;
+    &--branco{
+        background: #fff;
+        &--bordas{
+            border: 1px solid #000; 
+        }
+}
+&--vermelho{
+    background: #f00;
+    }
+&:hover{
+      opacity: 0.4;
+       }
+    }
+  
